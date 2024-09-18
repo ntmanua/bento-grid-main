@@ -17,5 +17,5 @@
     flex-direction: column;
     justify-content: center;
     background: hsl(256, 67%, 59%);
-    font-family: 'DMSans', sans-serif;
+    font: normal 400 16px 'DMSans';
 }
